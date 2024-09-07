@@ -5,17 +5,12 @@ body {
 }
 
 p {
-    background-color: aqua;
-    /* margin: 0 0 0 16px; */
-    /* margin: 0; */
-    /* margin: 0 0 0 auto; */
-    margin: auto;
-    width: 160px;
-    height: 160px;
-    border: 8px solid blue;
-    /* padding-top: 16px; */
-    /* padding-right: 16px; */
-    /* padding-bottom: 16px; */
-    /* padding-left: 16px; */
-    padding: 16px;
+    background-color: aliceblue;
+    margin: 16px  0 0;
+    width: 400px;
+    height: 80px;
+    border: 8px solid blueviolet;
+    padding: 8px;
+    box-sizing: border-box;
+
 }
